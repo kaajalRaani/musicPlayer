@@ -1,0 +1,3047 @@
+{
+    "tracks": [
+        {
+            "track_id": "17797413",
+            "seokey": "kishore-kumar-1",
+            "albumseokey": "aankabanka-pathey",
+            "track_title": "Kishore Kumar",
+            "album_id": "1694926",
+            "album_title": "Aankabanka Pathey",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2006-08-09",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/26\/1694926\/crop_80x80_1694926.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/26\/1694926\/crop_175x175_1694926.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/26\/1694926\/crop_480x480_1694926.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "86",
+                    "name": "Amit Kumar",
+                    "seokey": "amit-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "85",
+                    "name": "Folk"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~48590",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "292",
+            "isrc": "INS930604544",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "969055",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/7rVW1Rbk56\/rVW11Ad5Wk\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 1025,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "46705319",
+            "seokey": "kishore-kumar-mashup-1",
+            "albumseokey": "kishore-kumar-mashup",
+            "track_title": "Kishore Kumar Mashup",
+            "album_id": "6221714",
+            "album_title": "Kishore Kumar Mashup",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "2022-08-04",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/14\/6221714\/crop_80x80_6221714.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/14\/6221714\/crop_175x175_6221714.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/14\/6221714\/crop_480x480_6221714.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~26725",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "721",
+            "isrc": "INS932200185",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "969055",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/9MAWe7KyJe\/AWe9B9DRWy\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 3366,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "38682011",
+            "seokey": "twinkle-twinkle-kishore-kumar",
+            "albumseokey": "twinkle-twinkle-kishore-kumar",
+            "track_title": "Twinkle Twinkle Kishore Kumar",
+            "album_id": "4731640",
+            "album_title": "TWINKLE TWINKLE KISHORE KUMAR",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "2021-07-06",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/4731640\/crop_80x80_4731640.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/4731640\/crop_175x175_4731640.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/4731640\/crop_480x480_4731640.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "3478504",
+                    "name": "Abhijeet Aroon",
+                    "seokey": "abhijeet-aroon"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": null,
+                    "name": ""
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~5290",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "216",
+            "isrc": "ING782000001",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "713913",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/qaLKY23pO4\/LKY6qn6a3p\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 78,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "31357456",
+            "seokey": "the-classic-series-kishore-kumar-immortal-melodies",
+            "albumseokey": "the-classic-series-kishore-kumar-immortal-melodies",
+            "track_title": "The Classic Series - Kishore Kumar Immortal Melodies",
+            "album_id": "3333085",
+            "album_title": "The Classic Series - Kishore Kumar Immortal Melodies",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2020-08-02",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/85\/3333085\/crop_80x80_3333085.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/85\/3333085\/crop_175x175_3333085.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/85\/3333085\/crop_480x480_3333085.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                },
+                {
+                    "artist_id": "155",
+                    "name": "Lata Mangeshkar",
+                    "seokey": "lata-mangeshkar"
+                },
+                {
+                    "artist_id": "252190",
+                    "name": "Asha Bhosle",
+                    "seokey": "asha-bhosle-1"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": null,
+                    "name": ""
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~1882",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "1858",
+            "isrc": "INI112017698",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "203777",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/01A3mar3NQ\/1A3mX98rKN\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 63,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "39096362",
+            "seokey": "o-sathi-re-a-tribute-to-kishore-kumar",
+            "albumseokey": "o-sathi-re-a-tribute-to-kishore-kumar",
+            "track_title": "O Sathi Re a Tribute to Kishore Kumar",
+            "album_id": "4831279",
+            "album_title": "O Sathi Re a Tribute to Kishore Kumar",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "2021-10-27",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/79\/4831279\/crop_80x80_4831279.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/79\/4831279\/crop_175x175_4831279.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/79\/4831279\/crop_480x480_4831279.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "1286556",
+                    "name": "Manesh Judge",
+                    "seokey": "manesh-judge"
+                },
+                {
+                    "artist_id": "2404030",
+                    "name": "Kush Khanna",
+                    "seokey": "kush-khanna"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "59",
+                    "name": "Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~2628",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "292",
+            "isrc": "TCAFW2157710",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "743308",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "dW95v",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/jBr3gLyWR1\/r3gLEYnyWR\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 93,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "703119",
+            "seokey": "diner-sheshe-kishore-1",
+            "albumseokey": "diner-sheshey-ghumer-deshe",
+            "track_title": "Diner Sheshe-Kishore",
+            "album_id": "71291",
+            "album_title": "Diner Sheshey Ghumer Deshe",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2006-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_80x80_71291.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_175x175_71291.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_480x480_71291.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~51871",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "268",
+            "isrc": "INI111223061",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/4Z9bqZoKyQ\/Z9bqOOD3yQ\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 5450,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "2600352",
+            "seokey": "agar-tum-na-hote-8",
+            "albumseokey": "agar-tum-na-hote",
+            "track_title": "Agar Tum Na Hote",
+            "album_id": "220473",
+            "album_title": "Agar Tum Na Hote",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "2014-06-12",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/220473\/crop_80x80_220473.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/220473\/crop_175x175_220473.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/220473\/crop_480x480_220473.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "https:\/\/gaana.com\/lyrics\/agar-tum-na-hote-8",
+            "youtube_id": "",
+            "popularity": "2803174~502667",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "244",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "3330",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "lrrAp",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/81l3Mye3rM\/1l3MZ1YGWr\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 19676,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "3197899",
+            "seokey": "ei-to-jiban-4",
+            "albumseokey": "bengali-best-ever-songs-of-kishore-kumar-vol-1",
+            "track_title": "Ei To Jiban",
+            "album_id": "272994",
+            "album_title": "Bengali Best Ever Songs Of Kishore Kumar Vol 1",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2014-11-25",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_80x80_272994.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_175x175_272994.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_480x480_272994.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~603146",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "262",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110715",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/koMWQ4B3qL\/oMWQDJ6X3q\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 23628,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "1639505",
+            "seokey": "agar-tum-na-hote-2",
+            "albumseokey": "zakhami-dil",
+            "track_title": "Agar Tum Na Hote",
+            "album_id": "149340",
+            "album_title": "Zakhami Dil",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "2013-12-22",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/149340\/crop_80x80_149340.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/149340\/crop_175x175_149340.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/149340\/crop_480x480_149340.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "https:\/\/gaana.com\/lyrics\/agar-tum-na-hote-2",
+            "youtube_id": "",
+            "popularity": "2803174~1142373",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "244",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "3330",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "lrrAp",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/qaLKY23pO4\/aLKY6JVg3p\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 82126,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "14776077",
+            "seokey": "andheri-raaton-mein",
+            "albumseokey": "shahenshah-hindi",
+            "track_title": "Andheri Raaton Mein",
+            "album_id": "1411299",
+            "album_title": "Shahenshah",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "1987-06-29",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/99\/1411299\/crop_80x80_1411299.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/99\/1411299\/crop_175x175_1411299.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/99\/1411299\/crop_480x480_1411299.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                },
+                {
+                    "artist_id": "462",
+                    "name": "Chorus",
+                    "seokey": "chorus"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "https:\/\/gaana.com\/lyrics\/andheri-raaton-mein",
+            "youtube_id": "a7BGleCfZ4U",
+            "popularity": "2803174~294509",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "320",
+            "isrc": "IN-V11-87-00001",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "622900",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "l1zPq",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/ZaP374RWDy\/aP37qgD6bD\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 13950,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "1900971",
+            "seokey": "aadmi-jo-kehta-hai-aadmi-jo-sunta-hai",
+            "albumseokey": "wo-sham-kuch-ajeeb-thi",
+            "track_title": "Aadmi Jo Kehta Hai Aadmi Jo Sunta Hai",
+            "album_id": "165109",
+            "album_title": "Wo Sham Kuch Ajeeb Thi",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "2014-04-22",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/9\/165109\/crop_80x80_165109.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/9\/165109\/crop_175x175_165109.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/9\/165109\/crop_480x480_165109.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "https:\/\/gaana.com\/lyrics\/aadmi-jo-kehta-hai-aadmi-jo-sunta-hai",
+            "youtube_id": "",
+            "popularity": "2803174~160315",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "388",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "3330",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "lrrAp",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/a7LWBzWzXA\/7LWBkRXPbz\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 6128,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "703195",
+            "seokey": "aami-tomay-jato-kishore-1",
+            "albumseokey": "ei-kathati-mone-rekho-1st-part",
+            "track_title": "Aami Tomay Jato-Kishore",
+            "album_id": "71295",
+            "album_title": "Ei Kathati Mone Rekho 1st Part",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2006-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_80x80_71295.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_175x175_71295.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_480x480_71295.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~89294",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "185",
+            "isrc": "INI111223036",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/Rz4W87v3xD\/z4W8VVEKxD\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 7075,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "14842495",
+            "seokey": "chori-chori-yoon-jab",
+            "albumseokey": "paap-ki-duniya",
+            "track_title": "Chori Chori Yoon Jab",
+            "album_id": "1419524",
+            "album_title": "Paap Ki Duniya",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "1988-08-18",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/24\/1419524\/crop_80x80_1419524.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/24\/1419524\/crop_175x175_1419524.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/24\/1419524\/crop_480x480_1419524.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "https:\/\/gaana.com\/lyrics\/chori-chori-yoon-jab",
+            "youtube_id": "WPyG27M60xU",
+            "popularity": "2803174~91058",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "366",
+            "isrc": "IN-V11-88-00423",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "622900",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "l1zPq",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/zLp36v3rGe\/Lp36E52RKr\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 4177,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "703117",
+            "seokey": "naai-naai-bhoy-kishore",
+            "albumseokey": "diner-sheshey-ghumer-deshe",
+            "track_title": "Naai Naai Bhoy-Kishore",
+            "album_id": "71291",
+            "album_title": "Diner Sheshey Ghumer Deshe",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2006-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_80x80_71291.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_175x175_71291.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_480x480_71291.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~17425",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "150",
+            "isrc": "INI111223108",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/4Z9bqZoKyQ\/Z9bqOOD3yQ\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 1222,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "703194",
+            "seokey": "pagla-haowar-badal-diney-kishore",
+            "albumseokey": "ei-kathati-mone-rekho-1st-part",
+            "track_title": "Pagla Haowar Badal Diney-Kishore",
+            "album_id": "71295",
+            "album_title": "Ei Kathati Mone Rekho 1st Part",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2006-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_80x80_71295.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_175x175_71295.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_480x480_71295.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~88446",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "240",
+            "isrc": "INI111223121",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/Rz4W87v3xD\/z4W8VVEKxD\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 4854,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "3197876",
+            "seokey": "aadho-aalo-chhayte-2",
+            "albumseokey": "bengali-best-ever-songs-of-kishore-kumar-vol-1",
+            "track_title": "Aadho Aalo Chhayte",
+            "album_id": "272994",
+            "album_title": "Bengali Best Ever Songs Of Kishore Kumar Vol 1",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2014-11-25",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_80x80_272994.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_175x175_272994.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_480x480_272994.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                },
+                {
+                    "artist_id": "252190",
+                    "name": "Asha Bhosle",
+                    "seokey": "asha-bhosle-1"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "http:\/\/www.gdn8.com\/2013\/10\/aadho-aalo-chayate-lyrics-kishore-kumar.html",
+            "youtube_id": "",
+            "popularity": "2803174~1654402",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "315",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110715",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/koMWQ4B3qL\/oMWQDJ6X3q\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 60399,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "14850150",
+            "seokey": "baad-muddat-ke-1",
+            "albumseokey": "kaash-hindi-1987",
+            "track_title": "Baad Muddat Ke",
+            "album_id": "1420704",
+            "album_title": "Kaash",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "1987-07-12",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/4\/1420704\/crop_80x80_1420704.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/4\/1420704\/crop_175x175_1420704.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/4\/1420704\/crop_480x480_1420704.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                },
+                {
+                    "artist_id": "462",
+                    "name": "Chorus",
+                    "seokey": "chorus"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "https:\/\/gaana.com\/lyrics\/baad-muddat-ke-1",
+            "youtube_id": "x0HJsk8bbK0",
+            "popularity": "2803174~125457",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "377",
+            "isrc": "IN-V11-87-00375",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "622900",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "l1zPq",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/10q3Z1K52r\/0q3ZQGN0K5\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 10767,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "1644000",
+            "seokey": "chokher-jaler-hoyna-kono-rang-1",
+            "albumseokey": "aamar-pujar-phool-bengali",
+            "track_title": "Chokher Jaler Hoyna Kono Rang",
+            "album_id": "149773",
+            "album_title": "Aamar Pujar Phool ",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "1982-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_80x80_149773.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_175x175_149773.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_480x480_149773.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "https:\/\/kathayosure.wordpress.com\/2009\/10\/03\/chokher-joler-hoyna-kono-rong\/",
+            "youtube_id": "",
+            "popularity": "2803174~1049969",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "268",
+            "isrc": "INI111223657",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/81l3Mye3rM\/1l3MyGN63r\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 48089,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "3197896",
+            "seokey": "tomay-porechhe-mone-3",
+            "albumseokey": "bengali-best-ever-songs-of-kishore-kumar-vol-1",
+            "track_title": "Tomay Porechhe Mone",
+            "album_id": "272994",
+            "album_title": "Bengali Best Ever Songs Of Kishore Kumar Vol 1",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2014-11-25",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_80x80_272994.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_175x175_272994.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_480x480_272994.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~262587",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "202",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110715",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/koMWQ4B3qL\/oMWQDJ6X3q\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 12992,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "703196",
+            "seokey": "aaj-khela-bhangar-khela-kishore",
+            "albumseokey": "ei-kathati-mone-rekho-1st-part",
+            "track_title": "Aaj Khela Bhangar Khela-Kishore",
+            "album_id": "71295",
+            "album_title": "Ei Kathati Mone Rekho 1st Part",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2006-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_80x80_71295.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_175x175_71295.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_480x480_71295.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~100004",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "161",
+            "isrc": "INI111223012",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/Rz4W87v3xD\/z4W8VVEKxD\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 8266,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "1639530",
+            "seokey": "zuban-pe-dard-bhari-dastan-5",
+            "albumseokey": "zakhami-dil",
+            "track_title": "Zuban Pe Dard Bhari Dastan",
+            "album_id": "149340",
+            "album_title": "Zakhami Dil",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "2013-12-22",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/149340\/crop_80x80_149340.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/149340\/crop_175x175_149340.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/149340\/crop_480x480_149340.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~55853",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "246",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "3330",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "lrrAp",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/qaLKY23pO4\/aLKY6JVg3p\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 5930,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "9143932",
+            "seokey": "hothon-pe-jaan-chali-aayegi",
+            "albumseokey": "patita-hindi-1980",
+            "track_title": "Hothon Pe Jaan Chali Aayegi",
+            "album_id": "805153",
+            "album_title": "Patita",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "1980-05-15",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/53\/805153\/crop_80x80_805153.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/53\/805153\/crop_175x175_805153.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/53\/805153\/crop_480x480_805153.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "wE9lvsEklwE",
+            "popularity": "2803174~61320",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "220",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "11398",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "lrrAp",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/a7LWBkzbzX\/7LWBz6YRWz\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 2614,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "703109",
+            "seokey": "aakash-bhara-surya-tara-kishore-3",
+            "albumseokey": "diner-sheshey-ghumer-deshe",
+            "track_title": "Aakash Bhara Surya Tara-Kishore",
+            "album_id": "71291",
+            "album_title": "Diner Sheshey Ghumer Deshe",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2006-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_80x80_71291.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_175x175_71291.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_480x480_71291.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~71447",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "209",
+            "isrc": "INI111223017",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/4Z9bqZoKyQ\/Z9bqOOD3yQ\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 1293,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "14816156",
+            "seokey": "jhil-mil-sitaron-se",
+            "albumseokey": "amber-hindi",
+            "track_title": "Jhil Mil Sitaron Se",
+            "album_id": "1416285",
+            "album_title": "Amber",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "1985-08-21",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/85\/1416285\/crop_80x80_1416285.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/85\/1416285\/crop_175x175_1416285.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/85\/1416285\/crop_480x480_1416285.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~57725",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "295",
+            "isrc": "IN-V11-85-00209",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "622900",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "l1zPq",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/01A3mar3NQ\/1A3mB8vdWN\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 2445,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "2505607",
+            "seokey": "agar-tum-na-hote-7",
+            "albumseokey": "bhooli-bisari-yaadein",
+            "track_title": "Agar Tum Na Hote",
+            "album_id": "211625",
+            "album_title": "Bhooli Bisari Yaadein",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "2014-05-29",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/25\/211625\/crop_80x80_211625.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/25\/211625\/crop_175x175_211625.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/25\/211625\/crop_480x480_211625.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "https:\/\/gaana.com\/lyrics\/agar-tum-na-hote-7",
+            "youtube_id": "",
+            "popularity": "2803174~48429",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "244",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "3330",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "lrrAp",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/NOXWVgbkqL\/OXWVVZLNWk\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 4804,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "1643998",
+            "seokey": "keno-re-tui-chorli-1",
+            "albumseokey": "aamar-pujar-phool-bengali",
+            "track_title": "Keno Re Tui Chorli",
+            "album_id": "149773",
+            "album_title": "Aamar Pujar Phool ",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "1982-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_80x80_149773.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_175x175_149773.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_480x480_149773.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~716251",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "150",
+            "isrc": "INI111223663",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/81l3Mye3rM\/1l3MyGN63r\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 34494,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "3197905",
+            "seokey": "aamaar-naam-antony-1",
+            "albumseokey": "bengali-best-ever-songs-of-kishore-kumar-vol-1",
+            "track_title": "Aamaar Naam Antony",
+            "album_id": "272994",
+            "album_title": "Bengali Best Ever Songs Of Kishore Kumar Vol 1",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2014-11-25",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_80x80_272994.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_175x175_272994.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_480x480_272994.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~211324",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "235",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110715",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/koMWQ4B3qL\/oMWQDJ6X3q\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 12133,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "1643999",
+            "seokey": "tomay-porechhe-mone-2",
+            "albumseokey": "aamar-pujar-phool-bengali",
+            "track_title": "Tomay Porechhe Mone",
+            "album_id": "149773",
+            "album_title": "Aamar Pujar Phool ",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "1982-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_80x80_149773.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_175x175_149773.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_480x480_149773.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "https:\/\/kathayosure.wordpress.com\/2009\/09\/20\/tomay-porechhe-mone-aabar-srabono-dine\/",
+            "youtube_id": "",
+            "popularity": "2803174~571829",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "203",
+            "isrc": "INI111223662",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/81l3Mye3rM\/1l3MyGN63r\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 30036,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "3197911",
+            "seokey": "aamar-pujar-phool-2",
+            "albumseokey": "bengali-best-ever-songs-of-kishore-kumar-vol-2",
+            "track_title": "Aamar Pujar Phool",
+            "album_id": "272995",
+            "album_title": "Bengali Best Ever Songs Of Kishore Kumar Vol 2",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2014-11-25",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/272995\/crop_80x80_272995.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/272995\/crop_175x175_272995.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/272995\/crop_480x480_272995.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~127313",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "267",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110715",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/Rz4W87v3xD\/z4W8LkN6Wx\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 6362,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "703114",
+            "seokey": "purano-sei-kishore",
+            "albumseokey": "diner-sheshey-ghumer-deshe",
+            "track_title": "Purano Sei-Kishore",
+            "album_id": "71291",
+            "album_title": "Diner Sheshey Ghumer Deshe",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2006-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_80x80_71291.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_175x175_71291.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/91\/71291\/crop_480x480_71291.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~25497",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "184",
+            "isrc": "INI111223128",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/4Z9bqZoKyQ\/Z9bqOOD3yQ\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 1400,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "1643996",
+            "seokey": "joriye-dhorechhi-jare-2",
+            "albumseokey": "aamar-pujar-phool-bengali",
+            "track_title": "Joriye Dhorechhi Jare",
+            "album_id": "149773",
+            "album_title": "Aamar Pujar Phool ",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "1982-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_80x80_149773.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_175x175_149773.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_480x480_149773.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~156930",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "197",
+            "isrc": "INI111223665",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/81l3Mye3rM\/1l3MyGN63r\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 9871,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "14850153",
+            "seokey": "o-yaara-4",
+            "albumseokey": "kaash-hindi-1987",
+            "track_title": "O Yaara",
+            "album_id": "1420704",
+            "album_title": "Kaash",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "1987-07-12",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/4\/1420704\/crop_80x80_1420704.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/4\/1420704\/crop_175x175_1420704.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/4\/1420704\/crop_480x480_1420704.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                },
+                {
+                    "artist_id": "1285",
+                    "name": "Anupama Deshpande",
+                    "seokey": "anupama-deshpande"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "https:\/\/gaana.com\/lyrics\/o-yaara-4",
+            "youtube_id": "UbIDtHnN6ic",
+            "popularity": "2803174~126414",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "428",
+            "isrc": "IN-V11-87-00374",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "622900",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "l1zPq",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/10q3Z1K52r\/0q3ZQGN0K5\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 10092,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "1643995",
+            "seokey": "aaj-theke-aar-bhalobasar",
+            "albumseokey": "aamar-pujar-phool-bengali",
+            "track_title": "Aaj Theke Aar Bhalobasar",
+            "album_id": "149773",
+            "album_title": "Aamar Pujar Phool ",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "1982-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_80x80_149773.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_175x175_149773.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/73\/149773\/crop_480x480_149773.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~683850",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "199",
+            "isrc": "INI111223666",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/81l3Mye3rM\/1l3MyGN63r\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 32475,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "3197893",
+            "seokey": "o-amar-sajani-go-3",
+            "albumseokey": "bengali-best-ever-songs-of-kishore-kumar-vol-1",
+            "track_title": "O Amar Sajani Go",
+            "album_id": "272994",
+            "album_title": "Bengali Best Ever Songs Of Kishore Kumar Vol 1",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2014-11-25",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_80x80_272994.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_175x175_272994.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_480x480_272994.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                },
+                {
+                    "artist_id": "155",
+                    "name": "Lata Mangeshkar",
+                    "seokey": "lata-mangeshkar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~591710",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "390",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110715",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/koMWQ4B3qL\/oMWQDJ6X3q\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 27625,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "703197",
+            "seokey": "aamar-raat-pohalo-kishore-1",
+            "albumseokey": "ei-kathati-mone-rekho-1st-part",
+            "track_title": "Aamar Raat Pohalo-Kishore",
+            "album_id": "71295",
+            "album_title": "Ei Kathati Mone Rekho 1st Part",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2006-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_80x80_71295.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_175x175_71295.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_480x480_71295.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~28835",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "230",
+            "isrc": "INI111223029",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/Rz4W87v3xD\/z4W8VVEKxD\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 2791,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "42525764",
+            "seokey": "kehta-hai-dil-6",
+            "albumseokey": "best-of-80s-hindi",
+            "track_title": "Kehta Hai Dil",
+            "album_id": "5596953",
+            "album_title": "Best Of 80's Hindi",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "2022-03-30",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/53\/5596953\/crop_80x80_5596953.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/53\/5596953\/crop_175x175_5596953.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/53\/5596953\/crop_480x480_5596953.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": null,
+                    "name": ""
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~19193",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "260",
+            "isrc": "INI112200171",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "772947",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/a7LWBkzbzX\/LWBkP7qPbz\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 1631,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "703198",
+            "seokey": "jodi-tor-daak-shune-keu-kishore",
+            "albumseokey": "ei-kathati-mone-rekho-1st-part",
+            "track_title": "Jodi Tor Daak Shune Keu-Kishore",
+            "album_id": "71295",
+            "album_title": "Ei Kathati Mone Rekho 1st Part",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2006-01-01",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_80x80_71295.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_175x175_71295.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/71295\/crop_480x480_71295.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~2803174",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "236",
+            "isrc": "INI111223085",
+            "is_most_popular": 1,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110919",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/Rz4W87v3xD\/z4W8VVEKxD\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 55959,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "1639524",
+            "seokey": "woh-sham-kuchh-ajib",
+            "albumseokey": "zakhami-dil",
+            "track_title": "Woh Sham Kuchh Ajib",
+            "album_id": "149340",
+            "album_title": "Zakhami Dil",
+            "language": "Hindi",
+            "language_id": "6",
+            "release_date": "2013-12-22",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/149340\/crop_80x80_149340.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/149340\/crop_175x175_149340.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/40\/149340\/crop_480x480_149340.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "56",
+                    "name": "Bollywood"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~41878",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "284",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "1",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "3330",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "lrrAp",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/qaLKY23pO4\/aLKY6JVg3p\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "0",
+            "secondary_language": "Hindi",
+            "total_downloads": 6040,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "3197903",
+            "seokey": "naari-charitra-bejaay-jatil-2",
+            "albumseokey": "bengali-best-ever-songs-of-kishore-kumar-vol-1",
+            "track_title": "Naari Charitra Bejaay Jatil",
+            "album_id": "272994",
+            "album_title": "Bengali Best Ever Songs Of Kishore Kumar Vol 1",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2014-11-25",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_80x80_272994.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_175x175_272994.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/94\/272994\/crop_480x480_272994.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~224094",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "163",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110715",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/koMWQ4B3qL\/oMWQDJ6X3q\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 12803,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        },
+        {
+            "track_id": "3197915",
+            "seokey": "chokher-jaler-hoyna-kono-rang-2",
+            "albumseokey": "bengali-best-ever-songs-of-kishore-kumar-vol-2",
+            "track_title": "Chokher Jaler Hoyna Kono Rang",
+            "album_id": "272995",
+            "album_title": "Bengali Best Ever Songs Of Kishore Kumar Vol 2",
+            "language": "Bengali",
+            "language_id": "7",
+            "release_date": "2014-11-25",
+            "meta_title": "",
+            "meta_description": "",
+            "meta_keywords": "",
+            "meta_h1_tag": "",
+            "artwork": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/272995\/crop_80x80_272995.jpg",
+            "artwork_web": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/272995\/crop_175x175_272995.jpg",
+            "artwork_large": "http:\/\/a10.gaanacdn.com\/images\/albums\/95\/272995\/crop_480x480_272995.jpg",
+            "parental_warning": 0,
+            "artist": [
+                {
+                    "artist_id": "154",
+                    "name": "Kishore Kumar",
+                    "seokey": "kishore-kumar"
+                }
+            ],
+            "gener": [
+                {
+                    "genre_id": "652",
+                    "name": "Regional Pop"
+                }
+            ],
+            "lyrics_url": "",
+            "youtube_id": "",
+            "popularity": "2803174~97734",
+            "rating": "0",
+            "content_source": "1",
+            "stream_type": "rtmp",
+            "duration": "268",
+            "isrc": "0",
+            "is_most_popular": 0,
+            "track_format": {
+                "mp3": {
+                    "normal": "0",
+                    "medium": "0",
+                    "high": "0",
+                    "extreme": "0"
+                },
+                "mp4_aac": {
+                    "normal": "0",
+                    "medium": "1",
+                    "high": "1",
+                    "extreme": "1"
+                }
+            },
+            "rtmp": "0",
+            "http": "0",
+            "https": "0",
+            "rtsp": "0",
+            "display_global": "0",
+            "mobile": 1,
+            "country": 1,
+            "vendor": "110715",
+            "is_local": 0,
+            "premium_content": "0",
+            "vgid": "7J9JY",
+            "atw": "http:\/\/a10.gaanacdn.com\/gn_img\/albums\/Rz4W87v3xD\/z4W8LkN6Wx\/size_m.jpg",
+            "vd_expiry": "1694075200",
+            "clip_videos": [],
+            "ppd": "1",
+            "secondary_language": "Bengali",
+            "total_downloads": 5855,
+            "trivia_info": "",
+            "is_premium": 1,
+            "is_dolby": 0
+        }
+    ],
+    "count": 33935,
+    "user-token-status": 0,
+    "user_token_status": 0
+}

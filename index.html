@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Player</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      .main-div {
+        width: 100%;
+        height: 100vh;
+        position: relative;
+      }
+
+      .background {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      .row {
+        flex: 1 0 calc(50% - 10px);
+        width: 50%;
+        height: 50%;
+      }
+
+      .row:nth-child(1) {
+        background: #f39c12;
+      }
+
+      .row:nth-child(2) {
+        background: #e67e22;
+      }
+
+      .row:nth-child(3) {
+        background: #e74c3c;
+      }
+
+      .row:nth-child(4) {
+        background: #e84393;
+      }
+
+      .container {
+        width: 24%;
+        height: 65vh;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 10px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+        background: #c23616;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      /* .audio{
+            display: none;
+        } */
+
+      .image {
+        background: #3d3d3d;
+        width: 54%;
+        height: 36%;
+        border-radius: 10px;
+        box-shadow: 0 0 4px rgba(0, 0, 0, 0.6);
+      }
+
+      .image img {
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+      }
+
+      .title {
+        color: #3d3d3d;
+        font-weight: 900;
+        text-transform: uppercase;
+        padding: 2% 0;
+      }
+
+      .counter {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 90%;
+        margin: 3% 0;
+        color: #3d3d3d;
+        font-weight: 900;
+      }
+
+      progress[value] {
+        /* Reset the default appearance */
+        -webkit-appearance: none;
+        appearance: none;
+
+        width: 65%;
+        height: 10px;
+      }
+
+      progress[value]::-webkit-progress-bar {
+        background: #c23616;
+        border-radius: 2px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+      }
+
+      progress[value]::-webkit-progress-value {
+        background: #3d3d3d;
+      }
+
+      .btns {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 100%;
+      }
+
+      .fa-solid {
+        cursor: pointer;
+        color: #c23616;
+        border-radius: 50%;
+        padding: 4.5% 4.5%;
+        background: #3d3d3d;
+        font-size: 22px;
+        box-shadow: 0 0 4px rgba(0, 0, 0, 0.6);
+      }
+
+      .fa-solid:nth-child(2) {
+        font-size: 40px;
+        padding: 9% 10% 9% 12%;
+        text-align: center;
+      }
+
+      /* responsive css here  */
+      @media screen and (max-width: 768px) {
+        .container {
+          width: 90%;
+          height: 75vh;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="main-div">
+      <div class="background">
+        <div class="row"></div>
+        <div class="row"></div>
+        <div class="row"></div>
+        <div class="row"></div>
+      </div>
+      <div class="container">
+        <!-- <div class="image">
+                <img src="" alt="">
+            </div>
+            <p class="title">Audio file title</p>
+            <div class="counter">
+                <span>0.00</span>
+                <input type="range" name="slider" id="slider" min="0" max="100" value="0" class="slider">
+                <span>0.00</span>
+            </div>
+            <div class="btns">
+                <i class="fa-solid fa-angles-left" ></i>
+                <i class="fa-solid fa-play"></i>
+                <i class="fa-solid fa-angles-right" ></i>
+            </div> -->
+      </div>
+    </div>
+    <script>
+      const btns = document.querySelectorAll(".fa-solid");
+      for (let i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", () => {
+          btns[i].style.marginTop = "2px";
+          setTimeout(() => {
+            btns[i].style.marginTop = "0";
+          }, 300);
+        });
+      }
+
+      // Add an event listener to update the background color on input change
+      // sliderEl.addEventListener("input", () => {
+      // const sliderValue = sliderEl.value;
+      // sliderEl.style.background = `linear-gradient(to right, #3d3d3d 0%, #3d3d3d ${sliderValue}%, #c23616 ${sliderValue}%, #c23616 100%)`;
+      // });
+
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+          document.querySelector(".container").innerHTML = this.responseText;
+        }
+      };
+
+      function getData(e = "", move = "") {
+        xhttp.open("GET", "data.php?id=" + e + "&move=" + move, true);
+        xhttp.send();
+      }
+
+      window.addEventListener("load", () => {
+        getData();
+      });
+
+      var m = false;
+      function Play(e = "", move = "") {
+        // alert(move);
+        getData(e, move);
+        Playmusic();
+      }
+
+      function Playmusic() {
+        const start = document.querySelector(".start");
+        const end = document.querySelector(".end");
+        const myAudio = document.getElementById("myAudio");
+        const progressSlider = document.getElementById("progressSlider");
+
+        //song length calculation
+        const duration = myAudio.duration;
+        // alert(duration);
+        const minutes = Math.floor(duration / 60);
+        const seconds = Math.floor(duration % 60);
+        const formattedDuration = `${minutes}:${
+          seconds < 10 ? "0" : ""
+        }${seconds}`;
+
+        if (m) {
+          //to pause the song
+          m = false;
+          const playBtn = document.getElementById("playBtn");
+          playBtn.classList.add("fa-play");
+          playBtn.classList.remove("fa-pause");
+          playBtn.style.padding = "9% 10% 9% 12%";
+          myAudio.pause();
+        } else {
+          //to play the song
+          m = true;
+          console.log("pause");
+          const playBtn = document.getElementById("playBtn");
+          playBtn.classList.add("fa-pause");
+          playBtn.classList.remove("fa-play");
+          playBtn.style.padding = "9% 12%";
+          myAudio.play();
+
+          setInterval(() => {
+            myAudio.addEventListener("timeupdate", () => {
+              const progress = (myAudio.currentTime / myAudio.duration) * 100;
+              //   console.log(progress);
+              progressBar.value = progress;
+              let minutes = Math.floor(progress / 60);
+              let seconds = Math.floor(progress % 60);
+              let formattedDuration = `${minutes}:${
+                seconds < 10 ? "0" : ""
+              }${seconds}`;
+              start.innerHTML = formattedDuration;
+            });
+          }, 1000);
+        }
+
+        end.innerHTML = formattedDuration;
+      }
+    </script>
+  </body>
+</html>
